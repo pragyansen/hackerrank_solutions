@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_cutting_boards\hackerrank_cutting_boards\bin\Debug\hackerrank_cutting_boards.exe.config
+D:\Cloud\Copy\Saha\hackerrank_cutting_boards\hackerrank_cutting_boards\bin\Debug\hackerrank_cutting_boards.exe
+D:\Cloud\Copy\Saha\hackerrank_cutting_boards\hackerrank_cutting_boards\bin\Debug\hackerrank_cutting_boards.pdb
+D:\Cloud\Copy\Saha\hackerrank_cutting_boards\hackerrank_cutting_boards\obj\Debug\hackerrank_cutting_boards.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_cutting_boards\hackerrank_cutting_boards\obj\Debug\hackerrank_cutting_boards.exe
+D:\Cloud\Copy\Saha\hackerrank_cutting_boards\hackerrank_cutting_boards\obj\Debug\hackerrank_cutting_boards.pdb

@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_game_of_thrones_1\hackerrank_game_of_thrones_1\bin\Debug\hackerrank_game_of_thrones_1.exe.config
+D:\Cloud\Copy\Saha\hackerrank_game_of_thrones_1\hackerrank_game_of_thrones_1\bin\Debug\hackerrank_game_of_thrones_1.exe
+D:\Cloud\Copy\Saha\hackerrank_game_of_thrones_1\hackerrank_game_of_thrones_1\bin\Debug\hackerrank_game_of_thrones_1.pdb
+D:\Cloud\Copy\Saha\hackerrank_game_of_thrones_1\hackerrank_game_of_thrones_1\obj\Debug\hackerrank_game_of_thrones_1.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_game_of_thrones_1\hackerrank_game_of_thrones_1\obj\Debug\hackerrank_game_of_thrones_1.exe
+D:\Cloud\Copy\Saha\hackerrank_game_of_thrones_1\hackerrank_game_of_thrones_1\obj\Debug\hackerrank_game_of_thrones_1.pdb

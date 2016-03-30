@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackerrank_mark_and_toys", "hackerrank_mark_and_toys\hackerrank_mark_and_toys.csproj", "{FB0BE6F3-D61A-4224-A680-E0742C72257F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0BE6F3-D61A-4224-A680-E0742C72257F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0BE6F3-D61A-4224-A680-E0742C72257F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0BE6F3-D61A-4224-A680-E0742C72257F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0BE6F3-D61A-4224-A680-E0742C72257F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

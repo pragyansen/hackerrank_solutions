@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackerrank_cutting_boards", "hackerrank_cutting_boards\hackerrank_cutting_boards.csproj", "{ADB5FF6C-ED4C-4CA3-9342-0943C2ED989C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB5FF6C-ED4C-4CA3-9342-0943C2ED989C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB5FF6C-ED4C-4CA3-9342-0943C2ED989C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB5FF6C-ED4C-4CA3-9342-0943C2ED989C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB5FF6C-ED4C-4CA3-9342-0943C2ED989C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

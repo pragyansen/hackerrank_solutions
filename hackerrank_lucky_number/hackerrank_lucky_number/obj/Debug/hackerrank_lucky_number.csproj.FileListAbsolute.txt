@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_lucky_number\hackerrank_lucky_number\bin\Debug\hackerrank_lucky_number.exe
+D:\Others\CourseWare\Saha\hackerrank_lucky_number\hackerrank_lucky_number\bin\Debug\hackerrank_lucky_number.pdb
+D:\Others\CourseWare\Saha\hackerrank_lucky_number\hackerrank_lucky_number\obj\Debug\hackerrank_lucky_number.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_lucky_number\hackerrank_lucky_number\obj\Debug\hackerrank_lucky_number.exe
+D:\Others\CourseWare\Saha\hackerrank_lucky_number\hackerrank_lucky_number\obj\Debug\hackerrank_lucky_number.pdb

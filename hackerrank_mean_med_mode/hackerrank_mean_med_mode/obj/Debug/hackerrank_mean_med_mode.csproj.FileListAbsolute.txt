@@ -1,0 +1,6 @@
+D:\Others\CourseWare\Saha\hackerrank_mean_med_mode\hackerrank_mean_med_mode\bin\Debug\hackerrank_mean_med_mode.exe.config
+D:\Others\CourseWare\Saha\hackerrank_mean_med_mode\hackerrank_mean_med_mode\bin\Debug\hackerrank_mean_med_mode.exe
+D:\Others\CourseWare\Saha\hackerrank_mean_med_mode\hackerrank_mean_med_mode\bin\Debug\hackerrank_mean_med_mode.pdb
+D:\Others\CourseWare\Saha\hackerrank_mean_med_mode\hackerrank_mean_med_mode\obj\Debug\hackerrank_mean_med_mode.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_mean_med_mode\hackerrank_mean_med_mode\obj\Debug\hackerrank_mean_med_mode.exe
+D:\Others\CourseWare\Saha\hackerrank_mean_med_mode\hackerrank_mean_med_mode\obj\Debug\hackerrank_mean_med_mode.pdb

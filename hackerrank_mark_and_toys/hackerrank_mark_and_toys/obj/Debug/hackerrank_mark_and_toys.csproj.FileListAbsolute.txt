@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_mark_and_toys\hackerrank_mark_and_toys\bin\Debug\hackerrank_mark_and_toys.exe
+D:\Others\CourseWare\Saha\hackerrank_mark_and_toys\hackerrank_mark_and_toys\bin\Debug\hackerrank_mark_and_toys.pdb
+D:\Others\CourseWare\Saha\hackerrank_mark_and_toys\hackerrank_mark_and_toys\obj\Debug\hackerrank_mark_and_toys.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_mark_and_toys\hackerrank_mark_and_toys\obj\Debug\hackerrank_mark_and_toys.exe
+D:\Others\CourseWare\Saha\hackerrank_mark_and_toys\hackerrank_mark_and_toys\obj\Debug\hackerrank_mark_and_toys.pdb

@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_manasa_loves_maths\hackerrank_manasa_loves_maths\bin\Debug\hackerrank_manasa_loves_maths.exe.config
+D:\Cloud\Copy\Saha\hackerrank_manasa_loves_maths\hackerrank_manasa_loves_maths\bin\Debug\hackerrank_manasa_loves_maths.exe
+D:\Cloud\Copy\Saha\hackerrank_manasa_loves_maths\hackerrank_manasa_loves_maths\bin\Debug\hackerrank_manasa_loves_maths.pdb
+D:\Cloud\Copy\Saha\hackerrank_manasa_loves_maths\hackerrank_manasa_loves_maths\obj\Debug\hackerrank_manasa_loves_maths.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_manasa_loves_maths\hackerrank_manasa_loves_maths\obj\Debug\hackerrank_manasa_loves_maths.exe
+D:\Cloud\Copy\Saha\hackerrank_manasa_loves_maths\hackerrank_manasa_loves_maths\obj\Debug\hackerrank_manasa_loves_maths.pdb

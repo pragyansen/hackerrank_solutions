@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_broken_keyboard\hackerrank_broken_keyboard\bin\Debug\hackerrank_broken_keyboard.exe.config
+D:\Cloud\Copy\Saha\hackerrank_broken_keyboard\hackerrank_broken_keyboard\bin\Debug\hackerrank_broken_keyboard.exe
+D:\Cloud\Copy\Saha\hackerrank_broken_keyboard\hackerrank_broken_keyboard\bin\Debug\hackerrank_broken_keyboard.pdb
+D:\Cloud\Copy\Saha\hackerrank_broken_keyboard\hackerrank_broken_keyboard\obj\Debug\hackerrank_broken_keyboard.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_broken_keyboard\hackerrank_broken_keyboard\obj\Debug\hackerrank_broken_keyboard.exe
+D:\Cloud\Copy\Saha\hackerrank_broken_keyboard\hackerrank_broken_keyboard\obj\Debug\hackerrank_broken_keyboard.pdb

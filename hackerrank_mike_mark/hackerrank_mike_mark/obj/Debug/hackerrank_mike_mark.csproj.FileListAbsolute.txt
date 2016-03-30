@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_mike_mark\hackerrank_mike_mark\bin\Debug\hackerrank_mike_mark.exe
+D:\Others\CourseWare\Saha\hackerrank_mike_mark\hackerrank_mike_mark\bin\Debug\hackerrank_mike_mark.pdb
+D:\Others\CourseWare\Saha\hackerrank_mike_mark\hackerrank_mike_mark\obj\Debug\hackerrank_mike_mark.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_mike_mark\hackerrank_mike_mark\obj\Debug\hackerrank_mike_mark.exe
+D:\Others\CourseWare\Saha\hackerrank_mike_mark\hackerrank_mike_mark\obj\Debug\hackerrank_mike_mark.pdb

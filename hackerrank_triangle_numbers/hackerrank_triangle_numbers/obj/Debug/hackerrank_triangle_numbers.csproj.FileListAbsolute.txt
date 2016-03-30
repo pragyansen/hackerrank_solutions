@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_triangle_numbers\hackerrank_triangle_numbers\bin\Debug\hackerrank_triangle_numbers.exe
+D:\Others\CourseWare\Saha\hackerrank_triangle_numbers\hackerrank_triangle_numbers\bin\Debug\hackerrank_triangle_numbers.pdb
+D:\Others\CourseWare\Saha\hackerrank_triangle_numbers\hackerrank_triangle_numbers\obj\Debug\hackerrank_triangle_numbers.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_triangle_numbers\hackerrank_triangle_numbers\obj\Debug\hackerrank_triangle_numbers.exe
+D:\Others\CourseWare\Saha\hackerrank_triangle_numbers\hackerrank_triangle_numbers\obj\Debug\hackerrank_triangle_numbers.pdb

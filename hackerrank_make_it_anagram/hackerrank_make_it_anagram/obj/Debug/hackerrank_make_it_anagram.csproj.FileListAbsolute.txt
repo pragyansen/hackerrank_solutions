@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_make_it_anagram\hackerrank_make_it_anagram\bin\Debug\hackerrank_make_it_anagram.exe.config
+D:\Cloud\Copy\Saha\hackerrank_make_it_anagram\hackerrank_make_it_anagram\bin\Debug\hackerrank_make_it_anagram.exe
+D:\Cloud\Copy\Saha\hackerrank_make_it_anagram\hackerrank_make_it_anagram\bin\Debug\hackerrank_make_it_anagram.pdb
+D:\Cloud\Copy\Saha\hackerrank_make_it_anagram\hackerrank_make_it_anagram\obj\Debug\hackerrank_make_it_anagram.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_make_it_anagram\hackerrank_make_it_anagram\obj\Debug\hackerrank_make_it_anagram.exe
+D:\Cloud\Copy\Saha\hackerrank_make_it_anagram\hackerrank_make_it_anagram\obj\Debug\hackerrank_make_it_anagram.pdb

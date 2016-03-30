@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_cut_the_sticks\hackerrank_cut_the_sticks\bin\Debug\hackerrank_cut_the_sticks.exe.config
+D:\Cloud\Copy\Saha\hackerrank_cut_the_sticks\hackerrank_cut_the_sticks\bin\Debug\hackerrank_cut_the_sticks.exe
+D:\Cloud\Copy\Saha\hackerrank_cut_the_sticks\hackerrank_cut_the_sticks\bin\Debug\hackerrank_cut_the_sticks.pdb
+D:\Cloud\Copy\Saha\hackerrank_cut_the_sticks\hackerrank_cut_the_sticks\obj\Debug\hackerrank_cut_the_sticks.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_cut_the_sticks\hackerrank_cut_the_sticks\obj\Debug\hackerrank_cut_the_sticks.exe
+D:\Cloud\Copy\Saha\hackerrank_cut_the_sticks\hackerrank_cut_the_sticks\obj\Debug\hackerrank_cut_the_sticks.pdb

@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_nCr\hackerrank_nCr\bin\Debug\hackerrank_nCr.exe
+D:\Others\CourseWare\Saha\hackerrank_nCr\hackerrank_nCr\bin\Debug\hackerrank_nCr.pdb
+D:\Others\CourseWare\Saha\hackerrank_nCr\hackerrank_nCr\obj\Debug\hackerrank_nCr.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_nCr\hackerrank_nCr\obj\Debug\hackerrank_nCr.exe
+D:\Others\CourseWare\Saha\hackerrank_nCr\hackerrank_nCr\obj\Debug\hackerrank_nCr.pdb

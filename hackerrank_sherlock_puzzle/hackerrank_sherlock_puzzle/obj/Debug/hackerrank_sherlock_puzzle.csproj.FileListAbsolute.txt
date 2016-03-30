@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_sherlock_puzzle\hackerrank_sherlock_puzzle\bin\Debug\hackerrank_sherlock_puzzle.exe
+D:\Others\CourseWare\Saha\hackerrank_sherlock_puzzle\hackerrank_sherlock_puzzle\bin\Debug\hackerrank_sherlock_puzzle.pdb
+D:\Others\CourseWare\Saha\hackerrank_sherlock_puzzle\hackerrank_sherlock_puzzle\obj\Debug\hackerrank_sherlock_puzzle.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_sherlock_puzzle\hackerrank_sherlock_puzzle\obj\Debug\hackerrank_sherlock_puzzle.exe
+D:\Others\CourseWare\Saha\hackerrank_sherlock_puzzle\hackerrank_sherlock_puzzle\obj\Debug\hackerrank_sherlock_puzzle.pdb

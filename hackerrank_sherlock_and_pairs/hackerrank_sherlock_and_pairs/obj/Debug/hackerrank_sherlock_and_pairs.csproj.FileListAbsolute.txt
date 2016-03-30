@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_pairs\hackerrank_sherlock_and_pairs\bin\Debug\hackerrank_sherlock_and_pairs.exe.config
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_pairs\hackerrank_sherlock_and_pairs\bin\Debug\hackerrank_sherlock_and_pairs.exe
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_pairs\hackerrank_sherlock_and_pairs\bin\Debug\hackerrank_sherlock_and_pairs.pdb
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_pairs\hackerrank_sherlock_and_pairs\obj\Debug\hackerrank_sherlock_and_pairs.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_pairs\hackerrank_sherlock_and_pairs\obj\Debug\hackerrank_sherlock_and_pairs.exe
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_pairs\hackerrank_sherlock_and_pairs\obj\Debug\hackerrank_sherlock_and_pairs.pdb

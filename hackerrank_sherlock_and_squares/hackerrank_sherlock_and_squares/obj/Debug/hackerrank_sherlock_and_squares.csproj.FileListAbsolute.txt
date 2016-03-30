@@ -1,0 +1,6 @@
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_squares\hackerrank_sherlock_and_squares\bin\Debug\hackerrank_sherlock_and_squares.exe.config
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_squares\hackerrank_sherlock_and_squares\bin\Debug\hackerrank_sherlock_and_squares.exe
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_squares\hackerrank_sherlock_and_squares\bin\Debug\hackerrank_sherlock_and_squares.pdb
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_squares\hackerrank_sherlock_and_squares\obj\Debug\hackerrank_sherlock_and_squares.csprojResolveAssemblyReference.cache
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_squares\hackerrank_sherlock_and_squares\obj\Debug\hackerrank_sherlock_and_squares.exe
+D:\Cloud\Copy\Saha\hackerrank_sherlock_and_squares\hackerrank_sherlock_and_squares\obj\Debug\hackerrank_sherlock_and_squares.pdb

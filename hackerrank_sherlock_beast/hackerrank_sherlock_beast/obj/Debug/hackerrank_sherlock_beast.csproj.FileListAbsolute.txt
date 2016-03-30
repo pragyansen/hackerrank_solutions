@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_sherlock_beast\hackerrank_sherlock_beast\bin\Debug\hackerrank_sherlock_beast.exe
+D:\Others\CourseWare\Saha\hackerrank_sherlock_beast\hackerrank_sherlock_beast\bin\Debug\hackerrank_sherlock_beast.pdb
+D:\Others\CourseWare\Saha\hackerrank_sherlock_beast\hackerrank_sherlock_beast\obj\Debug\hackerrank_sherlock_beast.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_sherlock_beast\hackerrank_sherlock_beast\obj\Debug\hackerrank_sherlock_beast.exe
+D:\Others\CourseWare\Saha\hackerrank_sherlock_beast\hackerrank_sherlock_beast\obj\Debug\hackerrank_sherlock_beast.pdb

@@ -1,0 +1,5 @@
+D:\Others\CourseWare\Saha\hackerrank_bot_saves_princess\hackerrank_bot_saves_princess\obj\Debug\hackerrank_bot_saves_princess.csprojResolveAssemblyReference.cache
+D:\Others\CourseWare\Saha\hackerrank_bot_saves_princess\hackerrank_bot_saves_princess\bin\Debug\hackerrank_bot_saves_princess.exe
+D:\Others\CourseWare\Saha\hackerrank_bot_saves_princess\hackerrank_bot_saves_princess\bin\Debug\hackerrank_bot_saves_princess.pdb
+D:\Others\CourseWare\Saha\hackerrank_bot_saves_princess\hackerrank_bot_saves_princess\obj\Debug\hackerrank_bot_saves_princess.exe
+D:\Others\CourseWare\Saha\hackerrank_bot_saves_princess\hackerrank_bot_saves_princess\obj\Debug\hackerrank_bot_saves_princess.pdb
